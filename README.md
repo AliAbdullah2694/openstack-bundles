@@ -29,7 +29,7 @@ If there are specific issues with the bundle yaml files, or the READMEs shipped 
 #### MAAS or Juju Issues
 If there are deploy-time issues, or other system/tooling prep issues, please see:
  * https://docs.openstack.org/project-deploy-guide/charm-deployment-guide/latest/index.html
- * https://www.jujucharms.com
+ * https://www.charmhub.io
  * https://www.maas.io
 
 #### OpenStack Charms
